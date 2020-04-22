@@ -15,7 +15,7 @@ Este se ocultará automáticamente pasado un tiempo o haciendo Swipe hacia la iz
 
 >En la parte inferior central se encontrarán las diferentes opciones para crear el servidor dedicado.
 A este apartado se podrá acceder con una cuenta registrada.
-También permitirá pantalla completa.
+También permitirá pantalla completa, es lo que quiere decir la flecha morada.
 
 >Por último, si focalizamos en la zona central, podremos ver el logotipo de la aplicación, debajo irán rotando una imágenes de ejemplo.
 A su derecha, podremos ver apartados para comprar servidores por tiempo, estos contendrán información de las ventajas se tendrán al comprar esos packs.
