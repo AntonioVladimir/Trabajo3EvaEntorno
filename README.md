@@ -7,3 +7,9 @@
 Aunque  esta es la idea principal de nuestra APP, seguimos pensando en nuevas funcionalidades.
   	* _Mockflow_.
   	* Bibliografía: https://www.mockflow.com/app/#Wireframe
+
+## Mockup Escogido
+
+![](https://github.com/AntonioVladimir/GH-Chat/blob/master/Sprint1/Mockup_Pagina_Inicio_Antonio/GHCV2.png?raw=true)
+
+    
