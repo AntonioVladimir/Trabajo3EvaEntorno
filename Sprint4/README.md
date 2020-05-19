@@ -1,3 +1,3 @@
-##DIAGRAMA ESCOGIDO
+## DIAGRAMA ESCOGIDO
 
-![](https://i.imgur.com/yO834ss.png)
+![](https://i.imgur.com/KCWCUxR.png)
