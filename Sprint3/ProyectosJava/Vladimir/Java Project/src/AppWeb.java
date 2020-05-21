@@ -1,9 +1,13 @@
+import java.util.ArrayList;
 
 public class AppWeb {
 
 	private String nombre;
-
-	private Update version1;
+	public String[] Admin = {};
+	public ArrayList<String> User = new ArrayList<String>();
+	public Register register;
+	public ArrayList<String> Chat = new ArrayList<String>();
+	public ArrayList<String> Server = new ArrayList<String>();
 
 	@SuppressWarnings("unused")
 	private void changeHost() {
@@ -16,14 +20,6 @@ public class AppWeb {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
-	}
-
-	public Update getVersion1() {
-		return version1;
-	}
-
-	public void setVersion1(Update version1) {
-		this.version1 = version1;
 	}
 
 }

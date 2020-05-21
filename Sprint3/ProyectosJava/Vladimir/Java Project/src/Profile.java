@@ -7,6 +7,7 @@ public class Profile {
 	private int xp;
 	private int money;
 	private Profile profile;
+	private User[] users;
 
 	public void UpgradeRank() {
 
@@ -70,5 +71,13 @@ public class Profile {
 
 	public void setProfile(Profile profile) {
 		this.profile = profile;
+	}
+
+	public User[] getUsers() {
+		return users;
+	}
+
+	public void setUsers(User[] users) {
+		this.users = users;
 	}
 }

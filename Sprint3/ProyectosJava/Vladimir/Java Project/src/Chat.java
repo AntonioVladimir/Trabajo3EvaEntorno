@@ -3,6 +3,7 @@ public class Chat {
 	private String name;
 	int roomNumber;
 	private int capacity;
+	public Server[] Servers;
 
 	@SuppressWarnings("unused")
 	private boolean Open() {

@@ -4,6 +4,7 @@ public class Server {
 	String name;
 	String ip;
 	int port;
+	public Chat[] chats;
 
 	@SuppressWarnings("unused")
 	private void Delete() {
