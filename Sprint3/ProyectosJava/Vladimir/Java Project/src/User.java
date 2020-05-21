@@ -1,4 +1,5 @@
 
+@SuppressWarnings("unused")
 public class User {
 
 	private String id;
@@ -6,6 +7,9 @@ public class User {
 	private int phoneNumber;
 	private String password;
 	private String registerDate;
+
+	private Profile create;
+	private Register have;
 
 	public boolean verifyLogin() {
 		return false;
