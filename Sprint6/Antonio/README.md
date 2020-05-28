@@ -38,8 +38,7 @@ Ya que he trabajado con Bootstrap utilizaría este ya que tiene una gran amplitu
 
   
 
-Responsive Web Design he oído hablar bastante bien de esta técnica y me la recomendaron en un curso de openwebinars.
-
+Ya que he trabajado con Bootstrap utilizaría este ya que tiene una gran amplitud respecto a sus librerías y un estilo minimalista.
   
 
 ## Templating
